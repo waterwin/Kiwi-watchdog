@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###  kiwi-watchdog:   pings Kiwis and powe cycles them if they don't respond
+###  kiwi-watchdog:   pings Kiwis and power cycles them if they don't respond
 
 ###    Copyright (C) 2021  Robert S. Robinett
 ###
